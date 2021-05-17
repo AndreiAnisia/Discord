@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 export const appSlice = createSlice({
-   name: 'user',
+   name: 'app',
    initialState: {
       channelId: null,
       channelName: null,
